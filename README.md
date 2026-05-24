@@ -5,7 +5,56 @@
 - 🌱 Sedang belajar Git, GitHub, dan DevOps
 - 🎯 Tujuan: Menguasai ekosistem DevOps
 
+---
+
+## 📊 GitHub Stats
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fajriluckyboy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fajriluckyboy&layout=compact&theme=tokyonight)
+
+
+
+---
+
+## 🔥 Streak Stats
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=fajriluckyboy&theme=tokyonight)
+
+
+
+---
+
+## 🏆 Trophy
+
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=fajriluckyboy&theme=tokyonight&row=1)
+
+
+
+---
+
+## 📈 Activity Graph
+
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fajriluckyboy&theme=tokyo-night)
+
+
+
+---
+
 ## 🛠️ Teknologi yang Dipelajari
+
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -27,16 +76,32 @@
 
 
 
+
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white)
+
+
+
+
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat&logo=hugo&logoColor=white)
+
+
+
+---
+
 ## 📊 Progress Belajar
-| Materi | Status |
-|--------|--------|
-| Git Dasar | ✅ Selesai |
-| Git Lanjutan | ✅ Selesai |
-| Git Expert | ✅ Selesai |
-| GitHub Remote | ✅ Selesai |
-| GitHub Actions | ✅ Selesai |
-| GitHub Pages | ✅ Selesai |
+
+- ✅ Git Dasar
+- ✅ Git Lanjutan
+- ✅ Git Expert
+- ✅ GitHub Remote
+- ✅ GitHub Actions
+- ✅ GitHub Pages
+- ⏳ GitHub Portofolio
+
+---
 
 ## 📫 Kontak
 - GitHub: [@fajriluckyboy](https://github.com/fajriluckyboy)
-- Pages: [fajriluckyboy.github.io/github-latihan](https://fajriluckyboy.github.io/github-latihan)
+- Blog Jekyll: [fajriluckyboy.github.io](https://fajriluckyboy.github.io)
+- Blog Hugo: [fajriluckyboy.github.io/hugo-blog](https://fajriluckyboy.github.io/hugo-blog)
+- Dokumentasi: [fajriluckyboy.github.io/github-latihan](https://fajriluckyboy.github.io/github-latihan)
