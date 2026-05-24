@@ -11,13 +11,13 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fajriluckyboy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterorb-kavya-io.vercel.app/api?username=fajriluckyboy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fajriluckyboy&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterorb-kavya-io.vercel.app/api/top-langs/?username=fajriluckyboy&layout=compact&theme=tokyonight)
 
 
 
